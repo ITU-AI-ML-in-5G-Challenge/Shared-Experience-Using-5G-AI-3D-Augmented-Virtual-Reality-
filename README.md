@@ -1,2 +1,3 @@
-# Shared-Experience-Using-5G-AI-3D-Augmented-Virtual-Reality-
+# SharedExperience
 
+ITU-AI-ML-in-5G-Challenge
